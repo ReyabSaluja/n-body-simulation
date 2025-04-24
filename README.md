@@ -10,9 +10,9 @@ This project models **pairwise gravitational attraction (O(n²))** with visual f
 
 Every body in the system is affected by every other, using:
 
-$\
+$\[
 F = G \cdot \frac{m_1 \cdot m_2}{r^2}
-\$
+]\$
 
 Velocities and positions are updated per timestep with numerical integration. Bodies leave trails to visualize velocity, orbital decay, and past paths — producing hypnotic, often chaotic motion.
 
