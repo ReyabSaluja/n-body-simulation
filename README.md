@@ -20,7 +20,7 @@ Velocities and positions are updated per timestep with numerical integration. Bo
 
 ## 📸 Preview
 
-
+<img width="951" alt="Screenshot 2025-04-23 at 11 44 36 PM" src="https://github.com/user-attachments/assets/cadc3197-cfbb-4b04-8519-c73a80baafbd" />
 
 ---
 
